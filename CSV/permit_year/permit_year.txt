@@ -1,0 +1,13 @@
+Permit	No of Permits	Year
+Mechanical	52356	2013
+Building	41988	2013
+Electrical	35158	2013
+Mechanical	53364	2014
+Building	43146	2014
+Electrical	36014	2014
+Mechanical	56657	2015
+Building	47726	2015
+Electrical	44441	2015
+Mechanical	36209	2016
+Building	30337	2016
+Electrical	29008	2016
